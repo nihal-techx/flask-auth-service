@@ -143,7 +143,7 @@ flask-auth-service/
 ### With Docker (Recommended)
 ```bash
 # Clone repo
-git clone https://github.com/Nihal2999/flask-auth-service.git
+git clone https://github.com/nihal-techx/flask-auth-service.git
 cd flask-auth-service
 
 # Create .env file
